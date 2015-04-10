@@ -1,15 +1,15 @@
                                       Introducción
 
-En este portal se mostra como realizar la instalación del software a utilizar
+En este manual como realizar la instalacion del software a utilizar asi como tambien
 así como también el link de descarga de los programas utilizados.
-Primero se requiere del lenguaje de programación a utilizar en este caso
-es Python en dicho lenguaje se realizó el algoritmo, Para que el algoritmo
+para la realizacion del proyecto se requiere del lenguaje de programación a utilizar en este caso
+es Python, En dicho lenguaje se realizó el algoritmo, Para que el algoritmo
 que se creo pueda funcionar es necesario agregar librerías adicionales de 
-machine learning  en este caso se hace uso de las librerías 
-scipy, numpy, matplotlib, scikit-learn y mlpy. Estas librerías son las que permiten
-realizar tanto las operaciones matemáticas así como también los gráficos del programa.
-Para poder hacer la conexión de todo lo realizado se requiere de wampserver dicho
-programa se encarga de realizar la interconexión del algoritmo y el ambiente gráfico. 
+machine learning,Este caso se hace uso de scipy, numpy, matplotlib, scikit-learn y mlpy.
+Estas librerías son las que permiten realizar tanto las operaciones matemáticas así 
+como también los gráficos del programa.Para poder hacer la conexión de todo lo realizado 
+se requiere de wampserver dicho programa se encarga de hacer la interconexión 
+del algoritmo y el ambiente gráfico. 
 
 
 
@@ -22,17 +22,17 @@ Manual de instalación de Python 2.7
 Para poder hacer la instalación de Python se requiere descargar el ejecutable
 el link de la página oficial es: https://www.python.org/download/releases/2.7.7/
 En el momento en que se ejecuta el archivo de instalación nos muestra un ventana
-en la cual se seleccionan lo usuario que van a tener acceso a Python de dicha
+en la cual se seleccionan los usuario que van a tener acceso a Python de dicha
 ventana presionamos en todos los usuarios de este equipo.
 Al momento de presionar en siguiente mostrara  una ventana la cual indica
 la ruta de instalación en este caso la dejamos predefinida o bien puede 
-cambiar la ruta de instalación.En la siguiente ventana que muestre el asistente
+cambiar la ruta de instalación.En la siguiente ventana que muestre el asistente,
 en automático se iniciara la instalación del programa, esperamos unos instantes
 para que se finalice la instalación.Una vez terminado el proceso de instalación 
 solamente presionamos en aceptar para que se cierre el asistente y la instalación estará finalizada.
 
 Para mayor detalle de la instalación de Python en su versión 2.7  puedes accesar al siguiente
-link en donde se muestra la instalación gráficamente.
+link en donde se muestra la instalación gráfica.
 
 http://www.forosdelweb.com/f130/aporte-instalacion-python-tutorial-950214/
 
@@ -45,7 +45,7 @@ Instalación de github en Windows
 Para iniciar la descarga de github ingresamos el siguiente link: https://windows.github.com/ 
 en dicho link se encontrara un botón con la leyenda descargar github para Windows presionamos
 sobre el botón y automáticamente se iniciara la descarga del programa de instalación.
-Una vez descargado  procedemos a abrir el archivo en el momento de la ejecución se abre
+Una vez descargado  procedemos a abrir el archivo, En el momento de la ejecución se abre
 el asistente de instalación dicho asistente estará realizando la instalación en forma
 automática solo dejamos que se instale y cuando termine solo presionamos en finalizar. 
 Es necesario la descarga de librerías de machine learning para poder realizar la 
@@ -55,8 +55,8 @@ librerías así como también en sus correspondientes versiones para que pueda f
 
 Instalación de wampserver
 
-Para poder conectar el algoritmo con php es necesario utilizar wamp, fue seleccionado después
-de hacer múltiples análisis con los diferentes gestores de bases de datos y wamp fue el más 
+Para poder conectar el algoritmo con php es necesario utilizar wampserver, puesto que fue seleccionado después
+de hacer múltiples análisis con los diferentes gestores de bases de datos y wampserver fue el más 
 adecuado con respecto a la investigación que se está realizando a continuación se muestra
 el enlace directo de la descarga de wampserver.
 
@@ -89,61 +89,61 @@ Librería numpy
 
 Numpy proporciona un objeto de tipo array para datos homogéneos  de tipo arbitrario.
 También numpy permite realizar operaciones matemáticas con los arrays. Para realizar
-la instalación de la librería nump en la parte de abajo se muestra el link de descarga 
-de la librería procedemos a realizar la descarga del paquete. Una vez descargada al
-librería vamos a ruta de descarga y ejecutamos el archivo descargado en forma automática
+la instalación de la librería numpy en la parte de abajo se muestra el link de descarga 
+de la librería procedemos a realizar la descarga del paquete. Una vez descargada la
+librería vamos a la  ruta de descarga y ejecutamos el archivo descargado en forma automática
 se estará abriendo el asistente de instalación de la librería, de la ventana que se abra
-presionamos en siguiente y continuación estará mostrando la ruta en la cual se estará 
-haciendo la instalación del paquete si lo desea puede dejar la ruta por defecto o puede
-modificarla a una ruta que sea de su conveniencia y presionamos en siguiente, se estará 
-mostrando la ventana de que se está realizando la instalación y solo presionamos en finalizar
-y la instalación estará completa.  
+presionamos en siguiente y continuación se muestra la ruta en la cual se instalara el paquete 
+ si lo desea puede dejar la ruta por defecto o puede modificarla a una ruta que sea de su
+ conveniencia y presionamos en siguiente, se estará mostrando la ventana de que se está realizando
+ la instalación y solo presionamos en finalizar y la instalación esta completa.  
 
 http://sourceforge.net/projects/numpy/files/NumPy/1.6.2/numpy-1.6.2-win32-superpack-python2.7.exe/download
 
 
 Librería matplotlib
 
-La librería matplotlib permite hacer gráficos Para la instalación de matplotlib primero 
-ingresamos al siguiente link para poder realizar la descarga de la librería, una vez realizada
-la descarga de la librería vamos a la ruta en donde se guardó el archivo que se descargado 
+
+La librería matplotlib permite hacer el ambiente grafico para la instalación de matplotlib primero 
+ingresamos al siguiente link http://sourceforge.net/projects/matplotlib/files/matplotlib/matplotlib-1.4.2/windows/matplotlib-1.4.2.win-amd64-py2.7.exe/download?use_mirror=iweb
+para poder realizar la descarga de la librería, despues vamos a la ruta en  donde se guardó el archivo que se descargado 
 y lo ejecutamos durante el proceso de instalación se estará abriendo una ventana que será
-el asistente de instalación en la primera ventana que se abra solo presionamos en siguiente,
-posteriormente se estará mostrando la ruta en donde se estará realizado la instalación
-puede dejar la que viene por defecto o puede cambiar la ruta si así lo quiere y presionamos
-en siguiente se estará mostrando la ventana en la cual se muestra el porcentaje de avance
-de la instalación una vez terminado el proceso presionamos en finalizar.
+el asistente de instalación, solo presionamos en siguiente,posteriormente se estará mostrando
+la ruta en donde se estará realizado la instalación puede dejar la que viene por defecto o puede
+cambiar la ruta si así lo quiere y presionamos en siguiente, se estará mostrando la ventana 
+en la cual se muestra el porcentaje de avancede la instalación una vez terminado el proceso presionamos en finalizar.
 
 http://sourceforge.net/projects/matplotlib/files/matplotlib/matplotlib-1.4.2/windows/matplotlib-1.4.2.win-amd64-py2.7.exe/download?use_mirror=iweb
 
 
 Librería scikit-learn
 
-es un módulo que integra un conjunto de algoritmos  para aprendizaje automático para poder
-instalar la librería scikit-learn se requiere descargar el archivo ejecutable para esto 
-puedes accesar al link de descarga, una vez descargado el archivo vamos a la carpeta
-contenedora del archivo y lo ejecutamos inmediatamente se estará abriendo el asistente de
-instalación presionamos en siguiente y mostrara la ruta en donde se estará realizando la
-instalación de la librería podemos dejar la ruta que viene por defecto o se puede modificar
-la ruta y presionamos en siguiente inmediatamente se estará inicializando la instalación
-del programa en la ruta que se haya seleccionado y ya solo presionamos en finalizar o aceptar. 
+es un módulo que integra un conjunto de algoritmos  para aprendizaje automático, para poder
+instalar la librería scikit-learn se requiere descargar el archivo ejecutable, para esto 
+puedes accesar al link de descarga https://pypi.python.org/pypi/scikit-learn/0.13.1#downloads
+una vez descargado el archivo accedemos a ruta en donde guardo y lo ejecutamos,inmediatamente
+se estará abriendo el asistente de instalación presionamos en siguiente y mostrara la ruta en
+donde se estará realizando la instalación de la librería podemos dejar la ruta que viene por
+defecto o se puede modificarla ruta y presionamos en siguiente inmediatamente se estará 
+inicializando la instalacióndel programa en la ruta que se haya seleccionado y ya solo
+presionamos en finalizar o aceptar. 
 
-https://pypi.python.org/pypi/scikit-learn/0.13.1#downloads
+
 
 
 
 Librería mlpy
 
-Ingresamos al siguiente link para poder realizar la descarga de la librería, una vez realizada
-la descarga de la librería vamos a la ruta en donde se guardó el archivo que se descargado y 
+Ingresamos al siguiente link para hacer la descarga de la libreria http://sourceforge.net/projects/mlpy/files/mlpy%203.5.0/mlpy-3.5.0.win32-py2.7.exe/download 
+despues vamos a la ruta en donde se guardó el archivo que se descargado y 
 lo ejecutamos durante el proceso de instalación se estará abriendo una ventana que será el asistente
-de instalación en la primera ventana que se abra solo presionamos en siguiente, posteriormente 
+de instalación, en la primera ventana que se abra solo presionamos en siguiente, posteriormente 
 se estará mostrando la ruta en donde se estará realizado la instalación puede dejar la que viene
 por defecto o puede cambiar la ruta si así lo quiere y presionamos en siguiente se estará mostrando
 la ventana en la cual se muestra el porcentaje de avance de la instalación una vez terminado el 
 proceso presionamos en finalizar.
 
-http://sourceforge.net/projects/mlpy/files/mlpy%203.5.0/mlpy-3.5.0.win32-py2.7.exe/download
+
 
 
 
