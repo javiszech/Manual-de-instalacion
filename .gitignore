@@ -12,6 +12,15 @@ en automático se iniciara la instalación del programa, esperamos unos instante
 para que se finalice la instalación.Una vez terminado el proceso de instalación 
 solamente presionamos en aceptar para que se cierre el asistente y la instalación estará finalizada.
 
+Para mayor detalle de la instalación de Python en su versión 2.7  puedes accesar al siguiente
+link en donde se muestra la instalación gráficamente.
+
+http://www.forosdelweb.com/f130/aporte-instalacion-python-tutorial-950214/
+
+
+
+
+
 Instalación de github en Windows
 
 Para iniciar la descarga de github ingresamos el siguiente link: https://windows.github.com/ 
@@ -23,6 +32,26 @@ automática solo dejamos que se instale y cuando termine solo presionamos en fin
 Es necesario la descarga de librerías de machine learning para poder realizar la 
 ejecución del algoritmo a continuación se muestra el link de las páginas de descarga de las 
 librerías así como también en sus correspondientes versiones para que pueda funcionar
+
+
+Instalación de wampserver
+
+Para poder conectar el algoritmo con php es necesario utilizar wamp, fue seleccionado después
+de hacer múltiples análisis con los diferentes gestores de bases de datos y wamp fue el más 
+adecuado con respecto a la investigación que se está realizando a continuación se muestra
+el enlace directo de la descarga de wampserver.
+
+http://www.wampserver.es/
+
+Así como también se muestra el link del manual de instalación.
+
+http://pedrin.galeon.com/a.pdf
+
+
+
+Instalación de librerías
+
+
 
 Librería scipy
 
