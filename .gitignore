@@ -36,6 +36,69 @@ el programa y presionamos en siguiente y en forma automática se instalara el pa
 http://sourceforge.net/projects/scipy/files/scipy/0.9.0/scipy-0.9.0-win32-superpack-python2.7.exe/download
 
 
+Librería numpy
+
+
+Numpy proporciona un objeto de tipo array para datos homogéneos  de tipo arbitrario.
+También numpy permite realizar operaciones matemáticas con los arrays. Para realizar
+la instalación de la librería nump en la parte de abajo se muestra el link de descarga 
+de la librería procedemos a realizar la descarga del paquete. Una vez descargada al
+librería vamos a ruta de descarga y ejecutamos el archivo descargado en forma automática
+se estará abriendo el asistente de instalación de la librería, de la ventana que se abra
+presionamos en siguiente y continuación estará mostrando la ruta en la cual se estará 
+haciendo la instalación del paquete si lo desea puede dejar la ruta por defecto o puede
+modificarla a una ruta que sea de su conveniencia y presionamos en siguiente, se estará 
+mostrando la ventana de que se está realizando la instalación y solo presionamos en finalizar
+y la instalación estará completa.  
+
+http://sourceforge.net/projects/numpy/files/NumPy/1.6.2/numpy-1.6.2-win32-superpack-python2.7.exe/download
+
+
+Librería matplotlib
+
+La librería matplotlib permite hacer gráficos Para la instalación de matplotlib primero 
+ingresamos al siguiente link para poder realizar la descarga de la librería, una vez realizada
+la descarga de la librería vamos a la ruta en donde se guardó el archivo que se descargado 
+y lo ejecutamos durante el proceso de instalación se estará abriendo una ventana que será
+el asistente de instalación en la primera ventana que se abra solo presionamos en siguiente,
+posteriormente se estará mostrando la ruta en donde se estará realizado la instalación
+puede dejar la que viene por defecto o puede cambiar la ruta si así lo quiere y presionamos
+en siguiente se estará mostrando la ventana en la cual se muestra el porcentaje de avance
+de la instalación una vez terminado el proceso presionamos en finalizar.
+
+http://sourceforge.net/projects/matplotlib/files/matplotlib/matplotlib-1.4.2/windows/matplotlib-1.4.2.win-amd64-py2.7.exe/download?use_mirror=iweb
+
+
+Librería scikit-learn
+
+es un módulo que integra un conjunto de algoritmos  para aprendizaje automático para poder
+instalar la librería scikit-learn se requiere descargar el archivo ejecutable para esto 
+puedes accesar al link de descarga, una vez descargado el archivo vamos a la carpeta
+contenedora del archivo y lo ejecutamos inmediatamente se estará abriendo el asistente de
+instalación presionamos en siguiente y mostrara la ruta en donde se estará realizando la
+instalación de la librería podemos dejar la ruta que viene por defecto o se puede modificar
+la ruta y presionamos en siguiente inmediatamente se estará inicializando la instalación
+del programa en la ruta que se haya seleccionado y ya solo presionamos en finalizar o aceptar. 
+
+https://pypi.python.org/pypi/scikit-learn/0.13.1#downloads
+
+
+
+Librería mlpy
+
+Ingresamos al siguiente link para poder realizar la descarga de la librería, una vez realizada
+la descarga de la librería vamos a la ruta en donde se guardó el archivo que se descargado y 
+lo ejecutamos durante el proceso de instalación se estará abriendo una ventana que será el asistente
+de instalación en la primera ventana que se abra solo presionamos en siguiente, posteriormente 
+se estará mostrando la ruta en donde se estará realizado la instalación puede dejar la que viene
+por defecto o puede cambiar la ruta si así lo quiere y presionamos en siguiente se estará mostrando
+la ventana en la cual se muestra el porcentaje de avance de la instalación una vez terminado el 
+proceso presionamos en finalizar.
+
+http://sourceforge.net/projects/mlpy/files/mlpy%203.5.0/mlpy-3.5.0.win32-py2.7.exe/download
+
+
+
 
 
 
