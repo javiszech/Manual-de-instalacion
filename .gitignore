@@ -1,0 +1,25 @@
+Manual de instalación de Python 2.7
+
+Para poder hacer la instalación de Python se requiere descargar el ejecutable
+el link de la página oficial es: https://www.python.org/download/releases/2.7.7/
+En el momento en que se ejecuta el archivo de instalación nos muestra un ventana
+en la cual se seleccionan lo usuario que van a tener acceso a Python de dicha
+ventana presionamos en todos los usuarios de este equipo.
+Al momento de presionar en siguiente mostrara  una ventana la cual indica
+la ruta de instalación en este caso la dejamos predefinida o bien puede 
+cambiar la ruta de instalación.En la siguiente ventana que muestre el asistente
+en automático se iniciara la instalación del programa, esperamos unos instantes
+para que se finalice la instalación.Una vez terminado el proceso de instalación 
+solamente presionamos en aceptar para que se cierre el asistente y la instalación estará finalizada.
+
+Instalación de github en Windows
+
+Para iniciar la descarga de github ingresamos el siguiente link: https://windows.github.com/ 
+en dicho link se encontrara un botón con la leyenda descargar github para Windows presionamos
+sobre el botón y automáticamente se iniciara la descarga del programa de instalación.
+Una vez descargado  procedemos a abrir el archivo en el momento de la ejecución se abre
+el asistente de instalación dicho asistente estará realizando la instalación en forma
+automática solo dejamos que se instale y cuando termine solo presionamos en finalizar. 
+Es necesario la descarga de librerías de machine learning para poder realizar la 
+ejecución del algoritmo a continuación se muestra el link de las páginas de descarga de las 
+librerías así como también en sus correspondientes versiones para que pueda funcionar
