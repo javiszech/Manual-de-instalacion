@@ -1,3 +1,23 @@
+                                      Introducción
+
+En este portal se mostrara como realizar la instalación del software a utilizar
+así como también se muestra el link de descarga de los programas utilizados.
+Primero se requiere del lenguaje de programación a utilizar que en este caso
+es Python en dicho lenguaje se realizó el algoritmo de igual manera para poder
+hacer la conexión entre el algoritmo creado y la página web. Para que el algoritmo
+que se creo pueda funcionar es necesario agregar librerías adicionales de 
+machine learning  en este caso se hace uso de las librerías 
+scipy, numpy, matplotlib, scikit-learn y mlpy. Estas librerías son las que permiten
+realizar tanto las operaciones matemáticas así como también los gráficos del programa.
+Para poder hacer la conexión de todo lo realizado se requiere de wampserver dicho
+programa se encarga de realizar la interconexión del algoritmo y el ambiente gráfico. 
+
+
+
+
+
+
+
 Manual de instalación de Python 2.7
 
 Para poder hacer la instalación de Python se requiere descargar el ejecutable
